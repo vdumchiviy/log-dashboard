@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'threat.apps.ThreatConfig',
+    'log.apps.LogConfig'
 ]
 
 MIDDLEWARE = [
